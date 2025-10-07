@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { RouterLink, RouterLinkActive } from "../../../../../node_modules/@angular/router/router_module.d-Bx9ArA6K";
+import { RouterLink, RouterLinkActive } from '@angular/router';
 
 @Component({
   selector: 'country-top-menu',
